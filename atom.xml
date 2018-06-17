@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>matt potma</title>
+ <link href="http://mattpotma.github.io/atom.xml" rel="self"/>
+ <link href="http://mattpotma.github.io/"/>
+ <updated>2018-06-17T20:09:20+03:00</updated>
+ <id>http://mattpotma.github.io</id>
+ <author>
+   <name>Matt Potma</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>What am I doing in Africa?</title>
+   <link href="http://mattpotma.github.io/2018/06/17/what-am-i-doing/"/>
+   <updated>2018-06-17T00:00:00+03:00</updated>
+   <id>http://mattpotma.github.io/2018/06/17/what-am-i-doing</id>
+   <content type="html">&lt;p&gt;That&amp;#39;s a great question. Hopefully, by the end of my trip, I&amp;#39;ll be able to answer it.&lt;/p&gt;
+
+&lt;p&gt;I should start off with a bit of context, going back nearly 6 years now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&quot;right&quot; src=&quot;http://mattpotma.github.io/assets/matt-grace.jpg&quot; style=&quot;width: 350px;&quot;/&gt;&lt;/p&gt;
+
+&lt;p&gt;My wife, Grace, is a very passionate person, and the passion of hers which tops all others is her need to help people. When we first began dating; and this is truly the beginning, before she would allow me to say we were dating, she asked me if I would be willing to move to Africa with her for 5 years. She had recently returned from a travel study in Zambia, so this topic was quite fresh in her mind, and she certainly couldn&amp;#39;t date anyone not willing to share this part of her life.&lt;/p&gt;
+
+&lt;p&gt;As best as I can recall, my response was that &amp;quot;I&amp;#39;m not opposed to the idea, but it would certainly require some discussion.&amp;quot; That was enough for her.&lt;/p&gt;
+
+&lt;p&gt;Fast froward a few years, skipping over a few details, now an old married couple of a little more than 3 years, and Grace called me out on that. Not necessarily a 5 year trip to Africa, but something to get our feet wet.&lt;/p&gt;
+
+&lt;p&gt;After a long search, Grace became connected with an organization in Eldoret, Kenya, called AMPATH, who is a &amp;quot;a partnership between Moi University, Moi Teaching and Referral Hospital, North American universities led by Indiana University, and the Kenyan Government. Together, [they] work to build holistic, sustainable health in Kenya and around the world.&amp;quot; &lt;a href=&quot;https://www.ampathkenya.org/&quot;&gt;1&lt;/a&gt; Her position with AMPATH, as a Product Management Consultant for a software development team building a medical records system, is a great use of both her medical background (Registered Nurse), and her current professional experience (MBA working for a Healthcare Software Startup company).&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&quot;left&quot; src=&quot;http://mattpotma.github.io/assets/welcome-to-eldoret.jpg&quot; style=&quot;width: 100%;&quot;/&gt;
+&lt;br clear=&quot;left&quot;&gt;
+None of that actually says what &lt;em&gt;I&lt;/em&gt; am doing here though.&lt;/p&gt;
+
+&lt;p&gt;For my 9-to-5 of sorts, I&amp;#39;m working for a Canadian company, doing machine learning stuff. We&amp;#39;re applying deep learning to audio to try to build a better hearing aid. This job allows me to work anywhere in the world, as long as I have an internet connection. It also happens to be a very interesting problem!&lt;/p&gt;
+
+&lt;p&gt;With the rest of my time here, I want to figure out what role I can play in reducing the inequalities of both income and power throughout the world.&lt;/p&gt;
+
+&lt;p&gt;I hope to get away from the charity model, where someone from a high income country simply sends money for whatever amenity or infrastructure they believe is most necessary. Instead, my hope is that I can simply assist the locals, helping to bridge whatever is holding them back from success.&lt;/p&gt;
+
+&lt;p&gt;So far, my knowledge of machine learning seems to be a desirable skill. There are a few different projects related to machine learning which I&amp;#39;ll likely be consulting with, but I&amp;#39;ll save that until I have something concrete to talk about.&lt;/p&gt;
+
+&lt;p&gt;Whether or not I can be of much help to them is yet to be determined. Answering that question is the reason I&amp;#39;m here.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
